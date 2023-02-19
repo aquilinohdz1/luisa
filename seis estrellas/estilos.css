@@ -1,5 +1,6 @@
 :root {
 background-color: RGB(222, 184, 135);
+border: 10px solid brown;
 }
 .titulo {
     background: url(img/icono\ 3.jpeg) no-repeat left;

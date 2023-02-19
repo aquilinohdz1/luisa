@@ -1,0 +1,81 @@
+:root {
+background-color: RGB(222, 184, 135);
+}
+.titulo {
+    background: url(img/icono\ 3.jpeg) no-repeat left;
+    font-family: 'Zeyada', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin-top:  30px;
+    border: 2px solid brown;
+    background-color: RGB(255, 248, 220);
+    color: rgb(133, 30, 38);
+}
+   .img1{
+    background: url(img/icono\ 2.jpeg) no-repeat center;
+    margin-right: 700px;
+
+   }
+  
+  .parrafo1 {
+    border: 15px solid brown;
+  padding: 50px;
+  margin: 20px;
+    margin-left:890px ;
+    text-align: center;
+    width: 365px;
+    height: 550px ;
+    background-color: RGB(255, 248, 220);
+    padding: 8px;
+  }
+  .img2{
+    background: url(img/img1.jpeg) no-repeat center right;
+    margin-right: 150px;
+  }
+  .parrafo2{
+    border: 15px solid brown;
+  padding: 50px;
+  margin: 20px;
+    margin-right:800px ;
+    text-align: center;
+    width: 365px;
+    height: 550px ;
+    background-color: RGB(255, 248, 220);
+    padding: 8px;
+  }
+  .img3{
+    background: url(img/img2.jpeg) no-repeat center;
+    margin-right: 700px;
+  }
+  .parrafo3{
+    border: 15px solid brown;
+    padding: 50px;
+    margin: 20px;
+      margin-left:890px ;
+      text-align: center;
+      width: 365px;
+      height: 550px ;
+      background-color: RGB(255, 248, 220);
+      padding: 8px;
+  }
+  .imagendepie{
+background: url(img/img\ pie.jpeg) no-repeat center;
+width: 600px;
+height: 400px;
+margin:auto
+
+
+  }
+  .parrafo4{
+    border: 15px solid brown;
+    
+    margin: auto;
+    text-align: center;
+      width: 170px;
+      height: 100px ;
+      background-color: RGB(255, 248, 220);
+      
+      
+      
+  }
+  
